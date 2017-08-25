@@ -3,7 +3,7 @@
 You've jumped into Clojure or ClojureScript programming because it sounds cool, or
 because you read a great blog post. Or maybe your boss told you to learn it now. Or...
 
-You've read some websites. Maybe you've already created a _hello word_. You are ready to
+You've read some websites. Maybe you've already created a _hello world_. You are ready to
 dig deeper. Now comes the hard work!
 
 Like we all know, _Objects in the mirror may be Clojure. Then you think._.  Or, maybe
