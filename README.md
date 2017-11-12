@@ -17,7 +17,7 @@ This project is still mostly empty. I hope to fill it soon with guides to gettin
 started in the Clojure family of languages, with an emphasis on web-centric programming
 in ClojureScript.
 
-A few initial documents:
+## A few initial documents:
 
 - A [comparison chart](https://goo.gl/ZZH8fm) of templates and frameworks for
   ClojureScript web programming.
@@ -26,3 +26,7 @@ A few initial documents:
 - The [slack](https://clojurians.slack.com/messages/C5JCE7VGF/) discussion about this.
 - A Wiki of [Tips](https://github.com/deg/clojure-then-you-think/wiki/Tips), mostly
   answers to problems I've hit.
+  
+## Other great documents (external links):
+
+- [Getting started with Clojure Development](https://lemonteaa.github.io/tutorials/2017/10/11/getting-started-with-clojurescript-development-setup.html)
